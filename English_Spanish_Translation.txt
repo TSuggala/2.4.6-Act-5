@@ -1,0 +1,828 @@
+verde, green
+blanco, white
+negro, black
+amarillo, yellow
+azul, blue
+rojo, red
+gris, gray
+el marrón, brown
+anaranjado, orange
+morado, purple
+rosado, pink
+el color, color
+la plata, silver
+el oro, gold
+hacer, to do
+decir, to say
+salir, to go out
+poder, to be able to
+querer, to want
+hablar, to speak
+el novio, boyfriend
+el cine, movie theater
+tener, to have
+pedir, to ask for
+tomar, to take
+aburrido, boring
+la comida, food
+rico, rich
+tranquilo, calm
+ir, to go
+comer, to eat
+volver, to return
+joven, young
+el campo, countryside
+la música, music
+saber, to know
+empezar, to start
+sobre, on
+doler, to hurt
+la tienda, store
+el café, coffee
+grande, big
+estar, to be
+ver, to see
+poner, to put
+vivir, to live
+pagar, to pay
+levantarse, to get up
+seguro, sure
+divertido, fun
+la película, film
+la ropa, clothing
+la cocina, kitchen
+el agua, water
+el mes, month
+el enero, January
+el febrero, February
+el marzo, March
+el abril, April
+el mayo, May
+el junio, June
+el julio, July
+el agosto, August
+el septiembre, September
+el octubre, October
+el noviembre, November
+el diciembre, December
+la estación, season
+el verano, summer
+el invierno, winter
+el otoño, fall
+la primavera, spring
+la semana, week
+el lunes, Monday
+el martes, Tuesday
+el miércoles, Wednesday
+el jueves, Thursday
+el viernes, Friday
+el sábado, Saturday
+el domingo, Sunday
+perder, to lose
+también, also
+acostarse, to go to bed
+bailar, to dance
+alguien, someone
+la mesa, table
+mucho, a lot of
+la empresa, company
+la bolsa, bag
+el bosque, forest
+alguno, some
+la contaminación, pollution
+ser, to be
+llegar, to arrive
+conocer, to know
+dormir, to sleep
+deber, should
+después, after
+contar, to tell
+simpático, nice
+pequeño, small
+gastar, to spend
+la casa, house
+la silla, chair
+contento, happy
+trabajador, hardworking
+el pescado, fish
+el actor, actor
+el centro comercial, mall
+el mercado, market
+nunca, never
+el horario, schedule
+ayer, yesterday
+hoy, today
+mañana, tomorrow
+el fin de semana, weekend
+antes, before
+anoche, last night
+el día, day
+el año, year
+la chaqueta, jacket
+tímido, shy
+el médico, doctor
+la historia, history
+el banco, bank
+el medio ambiente, environment
+el/la policía, police officer
+el escritor, writer
+la actriz, actress
+el sofá, sofa
+buscar, to look for
+leer, to read
+siempre, always
+bueno, good
+descansar, to rest
+estudiar, to study
+ganar, to win
+tampoco, neither
+alto, tall
+la mano, hand
+dulce, sweet
+el armario, wardrobe
+la camiseta, T-shirt
+inteligente, intelligent
+el teatro, theater
+el profesor, teacher
+el premio, prize
+la naturaleza, nature
+el museo, museum
+nervioso, nervous
+escribir, to write
+jugar, to play
+el español, spanish
+gustar, to like
+viajar, to travel
+luego, then
+beber, to drink
+triste, sad
+terminar, to end
+qué, what
+la mujer, woman
+el partido, game
+la calle, street
+ducharse, to take a shower
+el cuadro, painting
+el trabajo, work
+el niño, child
+el hermano, brother
+el abogado, lawyer
+la cabeza, head
+el equipo, team
+el brazo, arm
+la abuela, grandmother
+la pierna, leg
+el padre, father
+el arroz, rice
+el pollo, chicken
+el precio, price
+el ingeniero, engineer
+el tenis, tennis
+el gimnasio, gym
+reciclar, to recycle
+el televisor, television
+el restaurante, restaurant
+el arte, art
+la lámpara, lamp
+el río, river
+llevar, to take
+seguir, to follow
+conseguir, to get
+comprar, to buy
+correr, to run
+algo, something
+ponerse, to put on
+vestirse, to get dressed
+porque, because
+bañarse, to take a bath
+bajo, short
+cocinar, to cook
+tarde, late
+el tiempo, time
+la hora, hour
+la fecha, date
+el mediodía, noon
+la medianoche, midnight
+la mañana, morning
+la hora, time
+el siglo, century
+la gente, people
+guapo, handsome
+nadie, no one
+necesitar, to need
+el pan, bread
+la puerta, door
+la cama, bed
+la ciudad, city
+caro, expensive
+la salud, health
+bonito, pretty
+rubio, blond
+la piscina, swimming pool
+la boca, mouth
+el coche, car
+feo, ugly
+ahorrar, to save
+ir de compras, to go shopping
+el pastel, cake
+cómodo, comfortable
+difícil, difficult
+el papel, paper
+el dinero, money
+resolver, to solve
+el plato, plate
+otro, other
+la leche, milk
+la madre, mother
+la escalera, stairs
+cuál, which
+el director, director
+el deporte, sport
+el concurso, competition
+la librería, bookstore
+la bebida, drink
+el tomate, tomato
+funcionar, to work
+el concierto, concert
+esperar, to wait for
+mirar, to look at
+el lugar, place
+trabajar, to work
+demasiado, too
+preferir, to prefer
+cantar, to sing
+probar, to taste
+nadar, to swim
+compartir, to share
+el país, country
+el pie, foot
+molestar, to bother
+el inglés, english
+la cena, dinner
+descubrir, to discover
+la hermana, sister
+el libro, book
+la escuela, school
+la pareja, couple
+la carne, meat
+el/la mar, sea
+la falda, skirt
+la playa, beach
+serio, serious
+la iglesia, church
+proteger, to protect
+el/la gerente, manager
+el/la cantante, singer
+la salida, exit
+la entrada, entrance
+la señora, ma'am
+el parque, park
+la nariz, nose
+el abuelo, grandfather
+interesante, interesting
+el amigo, friend
+paciente, patient
+la lata, can
+el ojo, eye
+el huevo, egg
+la pintura, painting
+el bombero, firefighter
+los padres, parents
+el pintor, painter
+el supermercado, supermarket
+la política, politics
+la energía, energy
+encontrar, to find
+pensar, to think
+quedar, to be left
+tocar, to touch
+todavía, still
+además, besides
+bastante, enough
+mayor, older
+entre, between
+cenar, to have dinner
+llover, to rain
+costar, to cost
+moreno, dark-haired
+discutir, to discuss
+malo, bad
+fácil, easy
+la mochila, backpack
+desayunar, to have breakfast
+pintar, to paint
+largo, long
+el postre, dessert
+el barrio, neighborhood
+mejorar, to improve
+la biblioteca, library
+el árbol, tree
+peligroso, dangerous
+la clase, class
+el jardín, garden
+abierto, open
+la rodilla, knee
+el/la periodista, journalist
+la sal, salt
+el señor, sir
+la luz, light
+la lechuga, lettuce
+recomendar, to recommend
+la natación, swimming
+el lago, lake
+la población, population
+el pez, fish
+delante de, in front of
+el centro, center
+antiguo, old
+el fútbol, soccer
+la enfermedad, illness
+el anuncio, advertisement
+el refresco, soda
+el entrenador, coach
+el empleo, employment
+el enfermero, nurse
+la montaña, mountain
+la fruta, fruit
+el arquitecto, architect
+la profesión, profession
+el estómago, stomach
+el político, politician
+llevar, to wear
+cuando, when
+por, because of
+aprender, to learn
+creer, to believe
+entonces, then
+desde, from
+caminar, to walk
+despertarse, to wake up
+ayudar, to help
+viejo, old
+vender, to sell
+morir, to die
+la hija, daughter
+recordar, to remember
+amable, kind
+el hotel, hotel
+el desayuno, breakfast
+el perro, dog
+dibujar, to draw
+caerse, to fall
+el hospital, hospital
+el hombre, man
+el tío, uncle
+el traje, suit
+el vestido, dress
+el espejo, mirror
+el comedor, dining room
+el cuello, neck
+por qué, why
+el regalo, present
+de repente, suddenly
+el helado, ice cream
+el periódico, newspaper
+antipático, unfriendly
+la pared, wall
+sucio, dirty
+el aceite, oil
+el jefe, boss
+la manzana, apple
+explicar, to explain
+la pantalla, screen
+el animal, animal
+el gato, cat
+el camarero, waiter
+la selva, jungle
+la entrevista, interview
+la chica, girl
+la guerra, war
+la naranja, orange
+ninguno, no
+el desarrollo, development
+la costumbre, custom
+limpio, clean
+la fiesta, party
+el queso, cheese
+la gripe, flu
+el dependiente, salesclerk
+la toalla, towel
+la flor, flower
+picante, hot
+pasar la aspiradora, to vacuum
+la familia, family
+debajo de, under
+la ensalada, salad
+la farmacia, pharmacy
+la pastilla, pill
+la tía, aunt
+la verdura, vegetable
+la tecnología, technology
+la cafetería, café
+dar, to give
+traer, to bring
+para, for
+abrir, to open
+llamar, to call
+enseñar, to teach
+quedarse, to stay
+hasta, until
+recibir, to receive
+enviar, to send
+recoger, to pick up
+en, in
+sin embargo, however
+desear, to want
+romper, to break
+cambiar, to change
+apagar, to turn off
+fuerte, strong
+alegre, happy
+delgado, thin
+el hijo, son
+la red, network
+casarse, to get married
+barato, cheap
+el abrigo, coat
+el piso, floor
+la camisa, shirt
+esquiar, to ski
+peinarse, to comb one's hair
+dormirse, to fall asleep
+la maleta, suitcase
+o, or
+la ventana, window
+durante, during
+nuevo, new
+el cuerpo, body
+la corbata, tie
+el barco, boat
+el pájaro, bird
+la canción, song
+el maestro, teacher
+el jabón, soap
+solicitar, to request
+el sillón, armchair
+sano, healthy
+la tos, cough
+la plaza, square
+el baloncesto, basketball
+pasarlo bien, to have a good time
+el chico, kid
+el examen, exam
+detrás de, behind
+el autobús, bus
+el cocinero, cook
+hacer ejercicio, to exercise
+la seguridad, safety
+la botella, bottle
+la universidad, university
+el aeropuerto, airport
+responsable, responsible
+la oficina, office
+hacer la cama, to make the bed
+el mecánico, mechanic
+el champú, shampoo
+la excursión, excursion
+moderno, modern
+el/la artista, artist
+la hamburguesa, hamburger
+las gafas de sol, sunglasses
+la literatura, literature
+el monumento, monument
+la comedia, comedy
+el secretario, secretary
+el público, audience
+la tarjeta de crédito, credit card
+el cajero automático, ATM
+¡Hola, hello
+entender, to understand
+el número, number
+cero, zero
+uno, one
+dos, two
+tres, three
+cuatro, four
+cinco, five
+seis, six
+siete, seven
+ocho, eight
+nueve, nine
+diez, ten
+once, eleven
+doce, twelve
+trece, thirteen
+catorce, fourteen
+quince, fifteen
+dieciséis, sixteen
+diecisiete, seventeen
+dieciocho, eighteen
+diecinueve, nineteen
+veinte, twenty
+escuchar, to listen to
+conducir, to drive
+cerrar, to close
+servir, to serve
+comenzar, to begin
+lo siento, i'm sorry
+pasear, to go for a walk
+el amor, love
+contestar, to answer
+cansado, tired
+olvidar, to forget
+nada, nothing
+visitar, to visit
+la sala, living room
+solo, alone
+el corazón, heart
+manejar, to drive
+repetir, to repeat
+irse, to leave
+el cuaderno, notebook
+el primo, cousin
+patinar, to skate
+la prueba, test
+el viaje, trip
+afeitarse, to shave
+la cita, appointment
+practicar, to practice
+quién, who
+menos, less
+el baño, bathroom
+la tierra, land
+la vida, life
+el cereal, cereal
+corto, short
+la sobrina, niece
+el dueño, owner
+el/la azúcar, sugar
+el avión, plane
+la llave, key
+la alfombra, rug
+la amistad, friendship
+la sopa, soup
+la cebolla, onion
+la mantequilla, butter
+la gorra, cap
+el sueldo, salary
+la piedra, stone
+veintiuno, twenty-one
+veintidós, twenty-two
+veintitrés, twenty-three
+veinticuatro, twenty-four
+veinticinco, twenty-five
+veintiséis, twenty-six
+veintisiete, twenty-seven
+veintiocho, twenty-eight
+veintinueve, twenty-nine
+treinta, thirty
+cuarenta, forty
+cincuenta, fifty
+sesenta, sixty
+setenta, seventy
+ochenta, eighty
+noventa, ninety
+cien, one hundred
+el pelo, hair
+feliz, happy
+guardar, to save
+poco, little
+enojado, angry
+llenar, to fill
+el reloj, watch
+cruzar, to cross
+gordo, fat
+preparar, to prepare
+peor, worse
+la habitación, room
+desarrollar, to develop
+el caballo, horse
+la basura, trash
+el correo, mail
+el ruido, noise
+el nieto, grandson
+el paisaje, landscape
+pobre, poor
+la esposa, wife
+lento, slow
+el pasillo, hall
+la cosa, thing
+la revista, magazine
+el esposo, husband
+nevar, to snow
+la cuchara, spoon
+la estufa, stove
+odiar, to hate
+regatear, to bargain
+grabar, to record
+sorprender, to surprise
+cerca de, close to
+antes de, before
+no, no
+sí, yes
+el pavo, turkey
+pesado, heavy
+cada, each
+mi, my
+todo, all
+allí, there
+cerca, close
+lejos, far
+tanto, so much
+tan, so
+haber, to have
+mucho gusto, nice to meet you
+feliz cumpleaños, happy birthday
+aunque, even though
+mientras, while
+si, if
+y, and
+pues, well
+parecer, to seem
+almorzar, to have lunch
+disfrutar, to enjoy
+bajar, to go down
+asistir, to attend
+caer, to fall
+caber, to fit
+reír, to laugh
+el miedo, fear
+la pizza, pizza
+el chocolate, chocolate
+la verdad, truth
+el puesto, position
+la voz, voice
+el sonido, sound
+traductor, translator
+la pronunciación, pronunciation
+el cuarto, room
+el doctor, doctor
+el tiempo, weather
+según, according to
+de, from
+de, of
+quejarse, to complain
+contigo, with you
+quien, who
+sentarse, to sit
+temprano, early
+pasar, to pass
+es, is
+traducir, to translate
+ganar, to earn
+limpiar, to clean
+pasar, to happen
+tratar, to treat
+escoger, to choose
+devolver, to return
+parar, to stop
+echar, to throw
+sentir, to feel
+quitar, to take away
+entregar, to turn in
+acabar, to finish
+alcanzar, to reach
+de nada, you're welcome
+por favor, please
+las cosas, things
+ordenar, to order
+la prisa, hurry
+arriba, up
+la idea, idea
+¡Oye, Hey
+el mango, mango
+la ola, wave
+el deseo, wish
+la cola, tail
+acercarse, to approach
+el conejo, rabbit
+ambos, both
+golpear, to hit
+el propósito, purpose
+perdido, lost
+la lista, list
+la China, china
+fingir, to pretend
+el palo, stick
+rezar, to pray
+legal, legal
+animar, to encourage
+asustado, scared
+la siesta, nap
+soso, bland
+el cordero, lamb
+la cosecha, harvest
+el cajón, drawer
+morder, to bite
+la traducción, translation
+perseguir, to pursue
+exigente, demanding
+cualquiera, any
+el pedazo, piece
+empujar, to push
+el tesoro, treasure
+común, common
+el bolsillo, pocket
+la disculpa, apology
+asombroso, amazing
+mojado, wet
+el favor, favor
+coser, to sew
+Australia, Australia
+el tocino, bacon
+ciego, blind
+el sustantivo, noun
+estados unidos, united states
+el coco, coconut
+el alemán, german
+el dedo, finger
+los hijos, children
+celebrar, to celebrate
+callado, silent
+dañar, to damage
+la oreja, ear
+saludable, healthy
+el equipaje, luggage
+raro, weird
+el alojamiento, accommodations
+durar, to last
+el gobierno, government
+el ascensor, elevator
+dejar de, to stop
+sociable, sociable
+la lavadora, washing machine
+el teclado, keyboard
+la tormenta, storm
+las noticias, news
+el sendero, path
+ordenado, tidy
+el sur, south
+poner la mesa, to set the table
+el conductor, driver
+insistir, to insist
+el atún, tuna
+la computadora, the computer
+el programa, program
+la planta, plant
+el vendedor, salesperson
+sacar la basura, to take out the trash
+el canal, channel
+un, a
+el pasatiempo, hobby
+la oferta, offer
+la pobreza, poverty
+la libertad, freedom
+el destino, destination
+delicioso, delicious
+animado, lively
+el anfitrión, host
+por la mañana, in the morning
+el garaje, garage
+impaciente, impatient
+investigar, to investigate
+la novela, novel
+el/la guía, guide
+la obra de teatro, play
+después de, after
+el/la dentista, dentist
+practicar deportes, to play sports
+la calculadora, calculator
+el huracán, hurricane
+la fábrica, factory
+la arquitectura, architecture
+el transporte, transportation
+romántico, romantic
+clásico, classical
+el menú, menu
+que, that
+esperar, to hope
+subir, to go up
+andar, to walk
+mandar, to send
+el este, east
+cómo, how
+mostrar, to show
+aquí, here
+lavar, to wash
+encantar, to love
+prestar, to lend
+arreglar, to fix
+la palabra, word
+ojalá, hopefully
+comprender, to understand
+preguntar, to ask
+evitar, to avoid
+cortar, to cut
+la carta, letter
+el reloj, clock
+más, more
+yo, I
+tú, you
+él, he
+ella, she
+usted, you
+nosotros, week
+vosotras, you all
+ellos, they
+tú, you
+a, to
